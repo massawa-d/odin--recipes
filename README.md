@@ -1,1 +1,1 @@
-# odin--recipes
+A HTML only website for food recipes.
