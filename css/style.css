@@ -1,0 +1,45 @@
+* {
+    font-family: sans-serif;
+}
+
+/* Home page styles */
+.home-page {
+    background-color: blanchedalmond;
+}
+
+.recipe-link-one {
+    margin: 8px;
+}
+
+.recipe-link-two {
+    margin: 8px;
+}
+
+.recipe-link-three {
+    margin: 8px;
+}
+
+/* Pizza page styles */
+.pizza-recipe {
+    background-color: #333;
+    color: white;
+}
+
+.pizza-page-link:visited {
+    color:orangered;
+}
+
+/* Cheese steak page styles */
+.cheesesteak-recipe {
+    background-color: burlywood;
+}
+
+/* Jerk chicken page styles */
+.jerkchicken-recipe {
+    background-color: black;
+    color: snow;
+}
+
+.jerk-page-link:visited {
+    color: orangered;
+}
